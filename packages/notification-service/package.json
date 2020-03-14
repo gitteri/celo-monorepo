@@ -40,7 +40,7 @@
     "typescript": "^3.7.3"
   },
   "engines": {
-    "node": "10"
+    "node": ">=10"
   },
   "resolutions": {
     "node-gyp": "5.0.1",
